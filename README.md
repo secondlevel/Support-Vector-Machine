@@ -19,9 +19,5 @@ You can use the following command to train SVM model and find the best parameter
 python 310551031_HW4.py
 ```
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/44439517/174540562-80b546b5-0e07-458b-9968-3aa822a81884.png" width="50%" height="50%"/>
-</p>
-
 ## Result
 This model can achieves 0.9010 on testing data.

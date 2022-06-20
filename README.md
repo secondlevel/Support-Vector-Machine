@@ -24,4 +24,4 @@ python 310551031_HW4.py
 </p>
 
 ## Result
-This model can achieves 0.9 on testing data.
+This model can achieves 0.9010 on testing data.

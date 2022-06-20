@@ -20,7 +20,7 @@ python 310551031_HW4.py
 ```
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44439517/174540562-80b546b5-0e07-458b-9968-3aa822a81884.png" width="60%" height="60%"/>
+  <img src="https://user-images.githubusercontent.com/44439517/174540562-80b546b5-0e07-458b-9968-3aa822a81884.png" width="50%" height="50%"/>
 </p>
 
 ## Result
